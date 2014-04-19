@@ -1,0 +1,5 @@
+﻿R.NET
+http://rdotnet.codeplex.com/documentation
+
+How to: Change the Default Location for Projects
+http://msdn.microsoft.com/en-us/library/vstudio/34c29fes(v=vs.100).aspx
